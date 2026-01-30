@@ -14,7 +14,7 @@ namespace Digitalis_NyomozoIroda
 		{
 			this.allapot = allapot;
 		}
-
+		
 		public string Allapot { get => allapot; set => allapot = value; }
 	}
 }
