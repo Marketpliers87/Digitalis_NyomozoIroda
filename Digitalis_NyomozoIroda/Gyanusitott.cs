@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Digitalis_NyomozoIroda
 {
-	internal class Gyanuszitott
+	internal class Gyanusitott
 	{
 		private Szemely szemely;
 		private int szint;
 		private string statusz;
 
-		public Gyanuszitott(Szemely szemely, int szint, string statusz)
+		public Gyanusitott(Szemely szemely, int szint, string statusz)
 		{
 			this.szemely = szemely;
 			this.szint = szint;
