@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Digitalis_NyomozoIroda
 {
-	internal class Bizonyetek
+	internal class Bizonyitek
 	{
 		private int azonosito;
 		private string tipus;
 		private string leiras;
 		private int megbizhatosag;
 
-		public Bizonyetek(int azonosito, string tipus, string leiras, int megbizhatosag)
+		public Bizonyitek(int azonosito, string tipus, string leiras, int megbizhatosag)
 		{
 			this.azonosito = azonosito;
 			this.tipus = tipus;
